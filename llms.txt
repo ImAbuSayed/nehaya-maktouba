@@ -19,7 +19,10 @@
 
 ## Excerpt
 
-> [Clean lyric will be pushed here]
+> يا حبيبي تعال في حضني وذوب
+> نار الشوق تكوي كل القلوب
+> خلني أعيش في عيونك بسلام
+> أنت الأمان وأجمل غرام
 > ...
 
 [View Full Lyrics ->](./lyrics.txt)
