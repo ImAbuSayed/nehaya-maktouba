@@ -13,7 +13,7 @@
 | Lyric Writing Date | April 30, 2026 |
 | Song Page | [Open Song Page](https://imabusayed.github.io/nehaya-maktouba/) |
 | License | [View License](./LICENSE.md) |
-| Get License | [Request Licensing for Nehaya Maktouba](https://music.abusayed.com.bd/Licensing/) |
+| Get License | [License Abu Sayed's Nehaya Maktouba](https://music.abusayed.com.bd/Licensing/) |
 | Artist | Abu Sayed |
 
 ---
