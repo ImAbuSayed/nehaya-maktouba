@@ -1,0 +1,10 @@
+# Cryptographic Proof of Authorship Log - Nehaya Maktouba
+
+This log tracks the cryptographic history and versioning for the song **Nehaya Maktouba** (nehaya-maktouba).
+
+| Timestamp | Version | Clean SHA-256 Hash | Raw SHA-256 Hash | Backup File |
+|:----------|:--------|:-------------------|:-----------------|:------------|
+| 2026-05-09T03:00:33.333087 | `v1` | `ece925099bbad9f09dd2b7c46c414fb19da1ec71e2203f761d22625f8f4c1cc4` | `5ec22899c60b1d03a590a5051c32e6a176261f51fd29b7d3b0add305abcfb9ca` | `2026-05-09_nehaya-maktouba-v1.txt` |
+
+---
+*Written and Curated by Abu Sayed*
